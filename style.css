@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "SF-Mono-Semibold";
+  src: local()
+}
+
+body {
+  background-color: #292A30;
+  margin: 20px;
+}
+
+p {
+  color: white;
+  font-family: SF-Mono-Semibold;
+}
+
+a {
+  color: #F6B500;
+/*   text-decoration: none; */
+}
+
+h2, h5 {
+  color: white;
+  font-family: Helvetica;
+  display: inline;
+}
+
+h4 {
+  color: white;
+  font-family: Helvetica;
+}
+
+.color-green {
+  color: #71B6A8;
+}
+
+.color-pink {
+  color: #FD7AB2;
+}
+
+.header {
+ display: block;
+}
+
+p.date {
+  color: #8B8B8B;
+  text-align: center;
+/*   font-size: 80%; */
+}
+
+p.italic {
+  font-style: italic;
+}
