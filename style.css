@@ -6,9 +6,7 @@
 
 @font-face {
     font-family: "Helvetica-Bold";
-    font-weight: bold;
-    src: local("Helvetica-Bold"),
-    local("Helvetica-Bold");
+    src: local("Helvetica-Bold");
 }
 
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
