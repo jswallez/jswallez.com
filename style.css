@@ -1,5 +1,6 @@
 @font-face {
   font-family: "SF-Mono-Semibold";
+  color: white;
   src: local()
 }
 
@@ -88,6 +89,12 @@ h4 {
 
 .header {
   display: block;
+}
+
+p.about {
+  color: white;
+  font-family: Helvetica-Bold;
+  font-size: 150%;
 }
 
 p.date {
