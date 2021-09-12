@@ -2,6 +2,9 @@
   font-family: "SF-Mono-Semibold";
   color: white;
   src: local()
+}
+
+@font-face {
   font-family: "Helvetica-Bold";
   color: white;
   src: local()
