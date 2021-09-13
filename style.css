@@ -21,14 +21,14 @@
 }
 @media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
   html {
-  max-width: 50vw;
+  max-width: 60vw;
   margin: auto;
   margin-top: 5vh;
   }
 }
 @media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */
   html {
-  max-width: 50vw;
+  max-width: 60vw;
   margin: auto;
   margin-top: 5vh;
   }
