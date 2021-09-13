@@ -94,6 +94,10 @@ h4 {
   display: block;
 }
 
+.italic {
+  font-style: italic;
+}
+
 p.about {
   color: white;
   font-family: Helvetica;
@@ -105,8 +109,4 @@ p.date {
   color: #8B8B8B;
   text-align: center;
   /*   font-size: 80%; */
-}
-
-p.italic {
-  font-style: italic;
 }
